@@ -1,4 +1,4 @@
-# **Analise de Dados Publicos : Sincdrome Respiratória Aguda Grave**
+# **Analise de Dados Publicos : Sindrome Respiratória Aguda Grave**
 
 ## Este projeto é uma atividade (EP4) para a disciplina Estrutura de Dados do Curso de Tecnologia em Banco de Dados
 [![license mit](https://img.shields.io/github/license/robsoncartes/analise-dados-srag?color=RED)](https://github.com/robsoncartes/analise-dados-srag/blob/master/LICENSE.md)
@@ -31,7 +31,7 @@ Faça a Instalação
 
 Configurar variáveis de ambiente
 
-Lembre-se de que no momento da instalação do Pytho,você deve escolher a versão 3.6 ou superior, marcar a caixa de diálogo “Adicionar PATH as variáveis de ambiente” para que a chamada de execução do Python possa ser feita a partir de qualquer diretório.
+Lembre-se de que no momento da instalação do Python, você deve escolher a versão 3.6 ou superior, marcar a caixa de diálogo “Adicionar PATH as variáveis de ambiente” para que a chamada de execução do Python possa ser feita a partir de qualquer diretório.
 
 Atualização do PIP (esse conjunto de comandos é opcional): python -m pip install --upgrade pip
 
